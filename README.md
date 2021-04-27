@@ -2,6 +2,10 @@
 
 Use this script to replace a block of text in a file (or multiple files). The text to search for goes in `$search` and the text to replace it with goes in `$replace`.
 
+## Requirements
+
+* Perl 5
+
 ## Usage
 
 Make the script executable, then run it:
